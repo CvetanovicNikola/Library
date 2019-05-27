@@ -1,15 +1,3 @@
-"""
-a program taht stores book inforamtion:
-Title, AUthor, Year, ISBN
-
-User can: 
-view all records
-search an entry
-add entry
-update an entry
-delete an entry
-close the program
-"""
 
 from tkinter import *
 from backend import Database
