@@ -41,12 +41,3 @@ class Database:
 
 
 
-
-#insert("Music Box", "Cakic Miroslav", 2010, 76428734)
-#insert("Patrola","Milan Vignjevic", 2000, 984394332937)
-#print(view())
-#print(search("Music Box"))
-#delete(10)
-#update(1, "Patrola", "Mica Vignjevic", 2010, 876387 )
-#update(9, "Music Box", "Mirosalv Cakic", 2010, 8768768 )
-#print(view())
